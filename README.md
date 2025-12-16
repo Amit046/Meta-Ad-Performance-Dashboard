@@ -15,8 +15,7 @@ It helps marketers and analysts quickly evaluate campaign performance and optimi
 
 ---
 ## Microsoft power BI official documentation:
-https://app.powerbi.com/groups/me/reports/72d9677d-133e-49d3-b9a8
-8aa4af67c470/3b36cc05d091e292f655?experience=power-bi
+https://app.powerbi.com/groups/me/datasets/a7391bfe-b18e-4f1d-9c83-54aa8dbfcf79/details?experience=power-bi
 
 ---
 
