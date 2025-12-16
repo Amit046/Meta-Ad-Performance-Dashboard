@@ -14,6 +14,11 @@ It helps marketers and analysts quickly evaluate campaign performance and optimi
 <img width="1283" height="740" alt="image" src="https://github.com/user-attachments/assets/03ec34ee-7698-4eba-8791-8ff7bd0497fc" />
 
 ---
+## Microsoft power BI official documentation:
+https://app.powerbi.com/groups/me/reports/72d9677d-133e-49d3-b9a8
+8aa4af67c470/3b36cc05d091e292f655?experience=power-bi
+
+---
 
 ## 📌 Key Metrics Tracked
 
